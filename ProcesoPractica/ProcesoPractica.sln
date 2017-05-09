@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcesoPractica", "ProcesoPractica\ProcesoPractica.csproj", "{3BAB805F-4D3A-40C3-A2B3-BCF9B5ED06D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		fff|x64 = fff|x64
+		fff|x86 = fff|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		xzc|x64 = xzc|x64
+		xzc|x86 = xzc|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BAB805F-4D3A-40C3-A2B3-BCF9B5ED06D2}.Debug|x64.ActiveCfg = Debug|x86
+		{3BAB805F-4D3A-40C3-A2B3-BCF9B5ED06D2}.Debug|x64.Build.0 = Debug|x86
+		{3BAB805F-4D3A-40C3-A2B3-BCF9B5ED06D2}.Debug|x86.ActiveCfg = Debug|x86
+		{3BAB805F-4D3A-40C3-A2B3-BCF9B5ED06D2}.Debug|x86.Build.0 = Debug|x86
+		{3BAB805F-4D3A-40C3-A2B3-BCF9B5ED06D2}.fff|x64.ActiveCfg = fff|x64
+		{3BAB805F-4D3A-40C3-A2B3-BCF9B5ED06D2}.fff|x64.Build.0 = fff|x64
+		{3BAB805F-4D3A-40C3-A2B3-BCF9B5ED06D2}.fff|x86.ActiveCfg = fff|x86
+		{3BAB805F-4D3A-40C3-A2B3-BCF9B5ED06D2}.fff|x86.Build.0 = fff|x86
+		{3BAB805F-4D3A-40C3-A2B3-BCF9B5ED06D2}.Release|x64.ActiveCfg = Release|x64
+		{3BAB805F-4D3A-40C3-A2B3-BCF9B5ED06D2}.Release|x64.Build.0 = Release|x64
+		{3BAB805F-4D3A-40C3-A2B3-BCF9B5ED06D2}.Release|x86.ActiveCfg = Release|x86
+		{3BAB805F-4D3A-40C3-A2B3-BCF9B5ED06D2}.Release|x86.Build.0 = Release|x86
+		{3BAB805F-4D3A-40C3-A2B3-BCF9B5ED06D2}.xzc|x64.ActiveCfg = xzc|x64
+		{3BAB805F-4D3A-40C3-A2B3-BCF9B5ED06D2}.xzc|x64.Build.0 = xzc|x64
+		{3BAB805F-4D3A-40C3-A2B3-BCF9B5ED06D2}.xzc|x86.ActiveCfg = Debug|x86
+		{3BAB805F-4D3A-40C3-A2B3-BCF9B5ED06D2}.xzc|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

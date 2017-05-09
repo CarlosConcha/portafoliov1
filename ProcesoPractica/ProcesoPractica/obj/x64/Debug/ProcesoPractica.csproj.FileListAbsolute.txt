@@ -1,0 +1,16 @@
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\bin\x64\Debug\ProcesoPractica.exe
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\bin\x64\Debug\ProcesoPractica.pdb
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x64\Debug\ProcesoPractica.Acta1.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x64\Debug\ProcesoPractica.Administrar_Sedes_y_Carreras.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x64\Debug\ProcesoPractica.CrearUsuario.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x64\Debug\ProcesoPractica.Login.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x64\Debug\ProcesoPractica.Main.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x64\Debug\ProcesoPractica.ModificarUsuario.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x64\Debug\ProcesoPractica.Properties.Resources.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x64\Debug\ProcesoPractica.Reporte_general.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x64\Debug\ProcesoPractica.Reporte.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x64\Debug\ProcesoPractica.Repositorio.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x64\Debug\ProcesoPractica.RestablecerContraseñaUsuario.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x64\Debug\ProcesoPractica.csproj.GenerateResource.Cache
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x64\Debug\ProcesoPractica.exe
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x64\Debug\ProcesoPractica.pdb

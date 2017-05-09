@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3BAB805F-4D3A-40C3-A2B3-BCF9B5ED06D2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProcesoPractica</RootNamespace>
+    <AssemblyName>ProcesoPractica</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'xzc|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\xzc\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'xzc|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\xzc\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'fff|x86'">
+    <OutputPath>bin\x86\fff\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'fff|x64'">
+    <OutputPath>bin\x64\fff\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>ProcesoPractica.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GMap.NET.Core, Version=1.7.0.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\GMap.NET.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsForms, Version=1.7.0.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\GMap.NET.WindowsForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Oracle.DataAccess, Version=4.121.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\app\carlos\product\11.2.0\dbhome_1\ODP.NET\bin\2.x\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess">
+      <HintPath>..\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Acta1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acta1.Designer.cs">
+      <DependentUpon>Acta1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrar Sedes y Carreras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrar Sedes y Carreras.Designer.cs">
+      <DependentUpon>Administrar Sedes y Carreras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BD\BD.cs" />
+    <Compile Include="BD\BDv1.cs" />
+    <Compile Include="controlador\Builder.cs" />
+    <Compile Include="controlador\IniFile.cs" />
+    <Compile Include="CrearUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrearUsuario.Designer.cs">
+      <DependentUpon>CrearUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAO\DAOCarrera.cs" />
+    <Compile Include="DAO\DAOCentroPrac.cs" />
+    <Compile Include="DAO\DAOComuna.cs" />
+    <Compile Include="DAO\DAOEmpleador.cs" />
+    <Compile Include="DAO\DAOEscuela.cs" />
+    <Compile Include="DAO\DAOEstablecimiento.cs" />
+    <Compile Include="DAO\DAOEvaluacion.cs" />
+    <Compile Include="DAO\DAOGiro.cs" />
+    <Compile Include="DAO\DAOInformePrac.cs" />
+    <Compile Include="DAO\DAOLocalizacion.cs" />
+    <Compile Include="DAO\DAOPractica.cs" />
+    <Compile Include="DAO\DAOPracticante.cs" />
+    <Compile Include="DAO\DAORegion.cs" />
+    <Compile Include="DAO\DAORoles.cs" />
+    <Compile Include="DAO\DAOSede.cs" />
+    <Compile Include="DAO\DAOTipoPrac.cs" />
+    <Compile Include="DAO\DAOUsuario.cs" />
+    <Compile Include="EditarPracticante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarPracticante.Designer.cs">
+      <DependentUpon>EditarPracticante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="entidades\Carrera.cs" />
+    <Compile Include="entidades\CentroPractica.cs" />
+    <Compile Include="entidades\Comuna.cs" />
+    <Compile Include="DAO\DAOPregDesarrollo.cs" />
+    <Compile Include="DAO\DAOProfesor.cs" />
+    <Compile Include="entidades\Empleador.cs" />
+    <Compile Include="entidades\Escuela.cs" />
+    <Compile Include="entidades\Establecimiento.cs" />
+    <Compile Include="entidades\Evaluacion.cs" />
+    <Compile Include="entidades\Giro.cs" />
+    <Compile Include="entidades\InformePractica.cs" />
+    <Compile Include="entidades\Localizacion.cs" />
+    <Compile Include="entidades\Practica.cs" />
+    <Compile Include="entidades\Practicante.cs" />
+    <Compile Include="entidades\PregDesarrollo.cs" />
+    <Compile Include="entidades\ProfesorGuia.cs" />
+    <Compile Include="entidades\Region.cs" />
+    <Compile Include="entidades\Roles.cs" />
+    <Compile Include="entidades\Sede.cs" />
+    <Compile Include="entidades\TipoPractica.cs" />
+    <Compile Include="entidades\Usuario.cs" />
+    <Compile Include="EscuelasCarreras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EscuelasCarreras.Designer.cs">
+      <DependentUpon>EscuelasCarreras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrAsignarProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrAsignarProfesor.Designer.cs">
+      <DependentUpon>FrAsignarProfesor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrPracticantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrPracticantes.Designer.cs">
+      <DependentUpon>FrPracticantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarUsuario.Designer.cs">
+      <DependentUpon>ModificarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reporte general.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte general.Designer.cs">
+      <DependentUpon>Reporte general.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte.Designer.cs">
+      <DependentUpon>Reporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Repositorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Repositorio.Designer.cs">
+      <DependentUpon>Repositorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RestablecerContraseñaUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RestablecerContraseñaUsuario.Designer.cs">
+      <DependentUpon>RestablecerContraseñaUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sedes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sedes.Designer.cs">
+      <DependentUpon>Sedes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wea.Designer.cs">
+      <DependentUpon>wea.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Acta1.resx">
+      <DependentUpon>Acta1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrar Sedes y Carreras.resx">
+      <DependentUpon>Administrar Sedes y Carreras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrearUsuario.resx">
+      <DependentUpon>CrearUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarPracticante.resx">
+      <DependentUpon>EditarPracticante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EscuelasCarreras.resx">
+      <DependentUpon>EscuelasCarreras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrAsignarProfesor.resx">
+      <DependentUpon>FrAsignarProfesor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrPracticantes.resx">
+      <DependentUpon>FrPracticantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarUsuario.resx">
+      <DependentUpon>ModificarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reporte general.resx">
+      <DependentUpon>Reporte general.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte.resx">
+      <DependentUpon>Reporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repositorio.resx">
+      <DependentUpon>Repositorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RestablecerContraseñaUsuario.resx">
+      <DependentUpon>RestablecerContraseñaUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sedes.resx">
+      <DependentUpon>Sedes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wea.resx">
+      <DependentUpon>wea.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="lenguaje\idiomas.ini" />
+    <None Include="Resources\logotipo.png" />
+    <None Include="Resources\13.png" />
+    <None Include="Resources\15.png" />
+    <None Include="Resources\logoDuoc.png" />
+    <None Include="Resources\6.png" />
+    <None Include="Resources\glyphicons-198-remove-circle.png" />
+    <None Include="Resources\glyphicons-21-home.png" />
+    <None Include="Resources\glyphicons-264-bank.png" />
+    <None Include="Resources\glyphicons-25-parents.png" />
+    <None Include="Resources\glyphicons-619-mixed-buildings.png" />
+    <None Include="Resources\glyphicons-703-file-plus.png" />
+    <None Include="Resources\glyphicons-145-folder-open.png" />
+    <None Include="Resources\glyphicons-41-stats.png" />
+    <None Include="Resources\glyphicons-125-message-plus.png" />
+    <None Include="Resources\glyphicons-138-cogwheels.png" />
+    <None Include="Resources\glyphicons-248-note.png" />
+    <None Include="Resources\glyphicons-622-businessman.png" />
+    <Content Include="Resources\Sin título1.png" />
+    <None Include="Resources\usuario.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

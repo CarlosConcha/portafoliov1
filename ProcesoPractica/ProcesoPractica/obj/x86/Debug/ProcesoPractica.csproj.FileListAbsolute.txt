@@ -1,0 +1,206 @@
+c:\users\duoc\documents\visual studio 2010\Projects\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.exe
+c:\users\duoc\documents\visual studio 2010\Projects\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Form1.resources
+c:\users\duoc\documents\visual studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Login.resources
+c:\users\duoc\documents\visual studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Properties.Resources.resources
+c:\users\duoc\documents\visual studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\duoc\documents\visual studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\duoc\documents\visual studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.exe
+c:\users\duoc\documents\visual studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Acta1.resources
+H:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.exe
+H:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.pdb
+H:\FJ\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.exe
+H:\FJ\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.pdb
+H:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.csprojResolveAssemblyReference.cache
+H:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Acta1.resources
+H:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Form1.resources
+H:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Login.resources
+H:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Properties.Resources.resources
+H:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.csproj.GenerateResource.Cache
+F:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.exe
+F:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.pdb
+F:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Acta1.resources
+F:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.CrearUsuario.resources
+F:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Form1.resources
+F:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Login.resources
+F:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.ModificarUsuario.resources
+F:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Properties.Resources.resources
+F:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Reporte_general.resources
+F:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Reporte.resources
+F:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Repositorio.resources
+F:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.RestablecerContraseñaUsuario.resources
+F:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\FJ\ProcesoPractica\ProcesoPractica\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\FJ\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.exe
+F:\FJ\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.pdb
+G:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.exe
+G:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.pdb
+G:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.csprojResolveAssemblyReference.cache
+G:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Acta1.resources
+G:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Administrar_Sedes_y_Carreras.resources
+G:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.CrearUsuario.resources
+G:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Login.resources
+G:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.ModificarUsuario.resources
+G:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Properties.Resources.resources
+G:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Reporte_general.resources
+G:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Reporte.resources
+G:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Repositorio.resources
+G:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.RestablecerContraseñaUsuario.resources
+G:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.csproj.GenerateResource.Cache
+G:\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.exe
+G:\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.pdb
+G:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Main.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.exe
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.pdb
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.exe
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.pdb
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.csprojResolveAssemblyReference.cache
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Acta1.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Administrar_Sedes_y_Carreras.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.CrearUsuario.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Login.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Main.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.ModificarUsuario.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Properties.Resources.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Reporte_general.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Reporte.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Repositorio.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.RestablecerContraseñaUsuario.resources
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.csproj.GenerateResource.Cache
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\bin\Debug\System.Data.OracleClient.dll
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.exe.config
+C:\Users\carlos\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.wea.resources
+G:\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.exe.config
+G:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.wea.resources
+D:\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.exe.config
+D:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.exe
+D:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.pdb
+D:\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.exe
+D:\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.pdb
+D:\ProcesoPractica\ProcesoPractica\bin\Debug\Oracle.DataAccess.dll
+D:\ProcesoPractica\ProcesoPractica\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Acta1.resources
+D:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Administrar_Sedes_y_Carreras.resources
+D:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.CrearUsuario.resources
+D:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Login.resources
+D:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Main.resources
+D:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.ModificarUsuario.resources
+D:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Properties.Resources.resources
+D:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Reporte_general.resources
+D:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Reporte.resources
+D:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Repositorio.resources
+D:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.RestablecerContraseñaUsuario.resources
+D:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.wea.resources
+D:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Sedes.resources
+G:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.EscuelasCarreras.resources
+G:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.FrPracticantes.resources
+G:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.EditarPracticante.resources
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.exe
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.exe.config
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\bin\Debug\GMap.NET.Core.dll
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Acta1.resources
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Administrar_Sedes_y_Carreras.resources
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.CrearUsuario.resources
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.EditarPracticante.resources
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.EscuelasCarreras.resources
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.FrPracticantes.resources
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Login.resources
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Main.resources
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.ModificarUsuario.resources
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Properties.Resources.resources
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Reporte_general.resources
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Reporte.resources
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Repositorio.resources
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.RestablecerContraseñaUsuario.resources
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Sedes.resources
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.wea.resources
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.csproj.GenerateResource.Cache
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.exe
+C:\Users\carlos\Documents\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.pdb
+F:\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.exe.config
+F:\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.exe
+F:\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.pdb
+F:\ProcesoPractica\ProcesoPractica\bin\Debug\GMap.NET.Core.dll
+F:\ProcesoPractica\ProcesoPractica\bin\Debug\GMap.NET.WindowsForms.dll
+F:\ProcesoPractica\ProcesoPractica\bin\Debug\Oracle.DataAccess.dll
+F:\ProcesoPractica\ProcesoPractica\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Acta1.resources
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Administrar_Sedes_y_Carreras.resources
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.CrearUsuario.resources
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.EditarPracticante.resources
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.EscuelasCarreras.resources
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.FrPracticantes.resources
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Login.resources
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Main.resources
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.ModificarUsuario.resources
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Properties.Resources.resources
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Reporte_general.resources
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Reporte.resources
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Repositorio.resources
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.RestablecerContraseñaUsuario.resources
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Sedes.resources
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.wea.resources
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.exe
+F:\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.pdb
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.exe.config
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.exe
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.pdb
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.exe
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.pdb
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\bin\Debug\GMap.NET.Core.dll
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Acta1.resources
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Administrar_Sedes_y_Carreras.resources
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.CrearUsuario.resources
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.EditarPracticante.resources
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.EscuelasCarreras.resources
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.FrPracticantes.resources
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Login.resources
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Main.resources
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.ModificarUsuario.resources
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Properties.Resources.resources
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Reporte_general.resources
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Reporte.resources
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Repositorio.resources
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.RestablecerContraseñaUsuario.resources
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Sedes.resources
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.wea.resources
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Duoc\Downloads\ProcesoPractica\ProcesoPractica\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.exe
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\bin\Debug\ProcesoPractica.exe.config
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\bin\Debug\GMap.NET.Core.dll
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Acta1.resources
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Administrar_Sedes_y_Carreras.resources
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.CrearUsuario.resources
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.EditarPracticante.resources
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.EscuelasCarreras.resources
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.FrAsignarProfesor.resources
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.FrPracticantes.resources
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Login.resources
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Main.resources
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.ModificarUsuario.resources
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Properties.Resources.resources
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Reporte_general.resources
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Reporte.resources
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Repositorio.resources
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.RestablecerContraseñaUsuario.resources
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.Sedes.resources
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.wea.resources
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.csproj.GenerateResource.Cache
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.exe
+C:\Users\carlos\Documents\Visual Studio 2010\Projects\ProcesoPractica\ProcesoPractica\obj\x86\Debug\ProcesoPractica.pdb

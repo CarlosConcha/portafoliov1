@@ -1,0 +1,30 @@
+*{
+margin:0x;
+paddin:0px;
+font-family: "Arial", serif; 
+}
+body {
+background-image: url("../imagenes/fondo.jpg");
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+background-color: #464646
+}
+#MenuTab  a{
+  
+  padding:10px 20px;
+  text-decoration:none;
+
+}
+#navbar-1 ul li a:hover{
+background:#fff;
+color:#000;
+}
+header{
+background:#2c3e50;
+color:#fff;
+}
+.tamcbo{
+display:block;
+width:15%;
+}
