@@ -2,10 +2,40 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"
       xmlns:h="http://xmlns.jcp.org/jsf/html"
-      xmlns:ui="http://xmlns.jcp.org/jsf/facelets">
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:p="http://primefaces.org/ui"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
     <ui:component>
         <div class="server-estadis">
-            <div class="normal"></div>
+            <div class="normal">
+                <p:panelGrid columns="2" class="">
+                    <f:facet name="header">
+                        Normal
+                    </f:facet>
+                    
+                    <h:outputText value="#{word.acounts}" />
+                    <h:outputText value="#{mbEstadisticas.estadistic.totalAcc}" />
+                    
+                    <h:outputText value="#{word.characters}" />
+                    <h:outputText value="#{mbEstadisticas.estadistic.totalUser}" />
+                    
+                    <h:outputText value="#{word.guilds}" />
+                    <h:outputText value="#{mbEstadisticas.estadistic.totalGuild}" />
+                    
+                    <h:outputText value="#{word.exp}" />
+                    <h:outputText value="#{mbEstadisticas.estadis.exp}" />
+                    
+                    <h:outputText value="#{word.drop}" />
+                    <h:outputText value="#{mbEstadisticas.estadis.drop}" />
+                                  
+                    <h:outputText value="#{word.useron}" />
+                    <h:outputText value="#{mbEstadisticas.estadistic.charOnline}" />
+                    
+                    <h:outputText value="#{word.on}" />
+                    <h:outputText value="#{mbEstadisticas.estadis.online}" />
+                         
+                </p:panelGrid>    
+            </div>
             <div class="vip"></div>
         </div>
     </ui:component>
