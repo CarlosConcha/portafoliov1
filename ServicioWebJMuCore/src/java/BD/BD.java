@@ -42,19 +42,19 @@ public class BD {
     }
     return bd;
     }
-    public void ejecutar(PreparedStatement sql){
- 
+    public int ejecutar(PreparedStatement sql){
+        
+        int result=0;
         try {
               
             //PreparedStatement statement=connect.prepareStatement(sql);
             
-            int resultado=sql.executeUpdate();
-        } catch (SQLException ex) {
+            result=sql.executeUpdate();
             
-        }finally{
-           desconectar();
+        } catch (SQLException ex) {
+            ex.printStackTrace();
         }
-        
+        return result;
     
     }
      public  void desconectar(){
