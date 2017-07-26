@@ -25,12 +25,31 @@ import javax.xml.namespace.QName;
 public class ObjectFactory {
 
     private final static QName _Exception_QNAME = new QName("http://service.online.mu/", "Exception");
+    private final static QName _AddCredit_QNAME = new QName("http://service.online.mu/", "addCredit");
+    private final static QName _AddCreditResponse_QNAME = new QName("http://service.online.mu/", "addCreditResponse");
     private final static QName _Estadisticas_QNAME = new QName("http://service.online.mu/", "estadisticas");
     private final static QName _EstadisticasResponse_QNAME = new QName("http://service.online.mu/", "estadisticasResponse");
+    private final static QName _GetCharacterAccount_QNAME = new QName("http://service.online.mu/", "getCharacterAccount");
+    private final static QName _GetCharacterAccountResponse_QNAME = new QName("http://service.online.mu/", "getCharacterAccountResponse");
+    private final static QName _GetRankCS_QNAME = new QName("http://service.online.mu/", "getRankCS");
+    private final static QName _GetRankCSResponse_QNAME = new QName("http://service.online.mu/", "getRankCSResponse");
+    private final static QName _GetRankCharacters_QNAME = new QName("http://service.online.mu/", "getRankCharacters");
+    private final static QName _GetRankCharactersResponse_QNAME = new QName("http://service.online.mu/", "getRankCharactersResponse");
+    private final static QName _GetRankGuild_QNAME = new QName("http://service.online.mu/", "getRankGuild");
+    private final static QName _GetRankGuildResponse_QNAME = new QName("http://service.online.mu/", "getRankGuildResponse");
+    private final static QName _GetRankPK_QNAME = new QName("http://service.online.mu/", "getRankPK");
+    private final static QName _GetRankPKResponse_QNAME = new QName("http://service.online.mu/", "getRankPKResponse");
     private final static QName _Hello_QNAME = new QName("http://service.online.mu/", "hello");
     private final static QName _HelloResponse_QNAME = new QName("http://service.online.mu/", "helloResponse");
+    private final static QName _IsFBLike_QNAME = new QName("http://service.online.mu/", "isFBLike");
+    private final static QName _IsFBLikeResponse_QNAME = new QName("http://service.online.mu/", "isFBLikeResponse");
     private final static QName _LoginUser_QNAME = new QName("http://service.online.mu/", "loginUser");
     private final static QName _LoginUserResponse_QNAME = new QName("http://service.online.mu/", "loginUserResponse");
+    private final static QName _RankGuild_QNAME = new QName("http://service.online.mu/", "rankGuild");
+    private final static QName _SetFBLike_QNAME = new QName("http://service.online.mu/", "setFBLike");
+    private final static QName _SetFBLikeResponse_QNAME = new QName("http://service.online.mu/", "setFBLikeResponse");
+    private final static QName _SetLevelChar_QNAME = new QName("http://service.online.mu/", "setLevelChar");
+    private final static QName _SetLevelCharResponse_QNAME = new QName("http://service.online.mu/", "setLevelCharResponse");
 
     /**
      * Create a new ObjectFactory that can be used to create new instances of schema derived classes for package: mu.online.service
@@ -45,6 +64,22 @@ public class ObjectFactory {
      */
     public Exception createException() {
         return new Exception();
+    }
+
+    /**
+     * Create an instance of {@link AddCredit }
+     * 
+     */
+    public AddCredit createAddCredit() {
+        return new AddCredit();
+    }
+
+    /**
+     * Create an instance of {@link AddCreditResponse }
+     * 
+     */
+    public AddCreditResponse createAddCreditResponse() {
+        return new AddCreditResponse();
     }
 
     /**
@@ -64,6 +99,86 @@ public class ObjectFactory {
     }
 
     /**
+     * Create an instance of {@link GetCharacterAccount }
+     * 
+     */
+    public GetCharacterAccount createGetCharacterAccount() {
+        return new GetCharacterAccount();
+    }
+
+    /**
+     * Create an instance of {@link GetCharacterAccountResponse }
+     * 
+     */
+    public GetCharacterAccountResponse createGetCharacterAccountResponse() {
+        return new GetCharacterAccountResponse();
+    }
+
+    /**
+     * Create an instance of {@link GetRankCS }
+     * 
+     */
+    public GetRankCS createGetRankCS() {
+        return new GetRankCS();
+    }
+
+    /**
+     * Create an instance of {@link GetRankCSResponse }
+     * 
+     */
+    public GetRankCSResponse createGetRankCSResponse() {
+        return new GetRankCSResponse();
+    }
+
+    /**
+     * Create an instance of {@link GetRankCharacters }
+     * 
+     */
+    public GetRankCharacters createGetRankCharacters() {
+        return new GetRankCharacters();
+    }
+
+    /**
+     * Create an instance of {@link GetRankCharactersResponse }
+     * 
+     */
+    public GetRankCharactersResponse createGetRankCharactersResponse() {
+        return new GetRankCharactersResponse();
+    }
+
+    /**
+     * Create an instance of {@link GetRankGuild }
+     * 
+     */
+    public GetRankGuild createGetRankGuild() {
+        return new GetRankGuild();
+    }
+
+    /**
+     * Create an instance of {@link GetRankGuildResponse }
+     * 
+     */
+    public GetRankGuildResponse createGetRankGuildResponse() {
+        return new GetRankGuildResponse();
+    }
+
+    /**
+     * Create an instance of {@link GetRankPK }
+     * 
+     */
+    public GetRankPK createGetRankPK() {
+        return new GetRankPK();
+    }
+
+    /**
+     * Create an instance of {@link GetRankPKResponse }
+     * 
+     */
+    public GetRankPKResponse createGetRankPKResponse() {
+        return new GetRankPKResponse();
+    }
+
+    /**
      * Create an instance of {@link Hello }
      * 
      */
@@ -77,6 +192,22 @@ public class ObjectFactory {
      */
     public HelloResponse createHelloResponse() {
         return new HelloResponse();
+    }
+
+    /**
+     * Create an instance of {@link IsFBLike }
+     * 
+     */
+    public IsFBLike createIsFBLike() {
+        return new IsFBLike();
+    }
+
+    /**
+     * Create an instance of {@link IsFBLikeResponse }
+     * 
+     */
+    public IsFBLikeResponse createIsFBLikeResponse() {
+        return new IsFBLikeResponse();
     }
 
     /**
@@ -96,6 +227,62 @@ public class ObjectFactory {
     }
 
     /**
+     * Create an instance of {@link RankGuild }
+     * 
+     */
+    public RankGuild createRankGuild() {
+        return new RankGuild();
+    }
+
+    /**
+     * Create an instance of {@link SetFBLike }
+     * 
+     */
+    public SetFBLike createSetFBLike() {
+        return new SetFBLike();
+    }
+
+    /**
+     * Create an instance of {@link SetFBLikeResponse }
+     * 
+     */
+    public SetFBLikeResponse createSetFBLikeResponse() {
+        return new SetFBLikeResponse();
+    }
+
+    /**
+     * Create an instance of {@link SetLevelChar }
+     * 
+     */
+    public SetLevelChar createSetLevelChar() {
+        return new SetLevelChar();
+    }
+
+    /**
+     * Create an instance of {@link SetLevelCharResponse }
+     * 
+     */
+    public SetLevelCharResponse createSetLevelCharResponse() {
+        return new SetLevelCharResponse();
+    }
+
+    /**
+     * Create an instance of {@link CharacterbyID }
+     * 
+     */
+    public CharacterbyID createCharacterbyID() {
+        return new CharacterbyID();
+    }
+
+    /**
+     * Create an instance of {@link RankCS }
+     * 
+     */
+    public RankCS createRankCS() {
+        return new RankCS();
+    }
+
+    /**
      * Create an instance of {@link Statistics }
      * 
      */
@@ -112,12 +299,62 @@ public class ObjectFactory {
     }
 
     /**
+     * Create an instance of {@link RankPK }
+     * 
+     */
+    public RankPK createRankPK() {
+        return new RankPK();
+    }
+
+    /**
+     * Create an instance of {@link Credits }
+     * 
+     */
+    public Credits createCredits() {
+        return new Credits();
+    }
+
+    /**
+     * Create an instance of {@link RankChar }
+     * 
+     */
+    public RankChar createRankChar() {
+        return new RankChar();
+    }
+
+    /**
+     * Create an instance of {@link FbLike }
+     * 
+     */
+    public FbLike createFbLike() {
+        return new FbLike();
+    }
+
+    /**
      * Create an instance of {@link JAXBElement }{@code <}{@link Exception }{@code >}}
      * 
      */
     @XmlElementDecl(namespace = "http://service.online.mu/", name = "Exception")
     public JAXBElement<Exception> createException(Exception value) {
         return new JAXBElement<Exception>(_Exception_QNAME, Exception.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link AddCredit }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://service.online.mu/", name = "addCredit")
+    public JAXBElement<AddCredit> createAddCredit(AddCredit value) {
+        return new JAXBElement<AddCredit>(_AddCredit_QNAME, AddCredit.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link AddCreditResponse }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://service.online.mu/", name = "addCreditResponse")
+    public JAXBElement<AddCreditResponse> createAddCreditResponse(AddCreditResponse value) {
+        return new JAXBElement<AddCreditResponse>(_AddCreditResponse_QNAME, AddCreditResponse.class, null, value);
     }
 
     /**
@@ -139,6 +376,96 @@ public class ObjectFactory {
     }
 
     /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link GetCharacterAccount }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://service.online.mu/", name = "getCharacterAccount")
+    public JAXBElement<GetCharacterAccount> createGetCharacterAccount(GetCharacterAccount value) {
+        return new JAXBElement<GetCharacterAccount>(_GetCharacterAccount_QNAME, GetCharacterAccount.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link GetCharacterAccountResponse }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://service.online.mu/", name = "getCharacterAccountResponse")
+    public JAXBElement<GetCharacterAccountResponse> createGetCharacterAccountResponse(GetCharacterAccountResponse value) {
+        return new JAXBElement<GetCharacterAccountResponse>(_GetCharacterAccountResponse_QNAME, GetCharacterAccountResponse.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link GetRankCS }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://service.online.mu/", name = "getRankCS")
+    public JAXBElement<GetRankCS> createGetRankCS(GetRankCS value) {
+        return new JAXBElement<GetRankCS>(_GetRankCS_QNAME, GetRankCS.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link GetRankCSResponse }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://service.online.mu/", name = "getRankCSResponse")
+    public JAXBElement<GetRankCSResponse> createGetRankCSResponse(GetRankCSResponse value) {
+        return new JAXBElement<GetRankCSResponse>(_GetRankCSResponse_QNAME, GetRankCSResponse.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link GetRankCharacters }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://service.online.mu/", name = "getRankCharacters")
+    public JAXBElement<GetRankCharacters> createGetRankCharacters(GetRankCharacters value) {
+        return new JAXBElement<GetRankCharacters>(_GetRankCharacters_QNAME, GetRankCharacters.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link GetRankCharactersResponse }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://service.online.mu/", name = "getRankCharactersResponse")
+    public JAXBElement<GetRankCharactersResponse> createGetRankCharactersResponse(GetRankCharactersResponse value) {
+        return new JAXBElement<GetRankCharactersResponse>(_GetRankCharactersResponse_QNAME, GetRankCharactersResponse.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link GetRankGuild }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://service.online.mu/", name = "getRankGuild")
+    public JAXBElement<GetRankGuild> createGetRankGuild(GetRankGuild value) {
+        return new JAXBElement<GetRankGuild>(_GetRankGuild_QNAME, GetRankGuild.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link GetRankGuildResponse }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://service.online.mu/", name = "getRankGuildResponse")
+    public JAXBElement<GetRankGuildResponse> createGetRankGuildResponse(GetRankGuildResponse value) {
+        return new JAXBElement<GetRankGuildResponse>(_GetRankGuildResponse_QNAME, GetRankGuildResponse.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link GetRankPK }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://service.online.mu/", name = "getRankPK")
+    public JAXBElement<GetRankPK> createGetRankPK(GetRankPK value) {
+        return new JAXBElement<GetRankPK>(_GetRankPK_QNAME, GetRankPK.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link GetRankPKResponse }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://service.online.mu/", name = "getRankPKResponse")
+    public JAXBElement<GetRankPKResponse> createGetRankPKResponse(GetRankPKResponse value) {
+        return new JAXBElement<GetRankPKResponse>(_GetRankPKResponse_QNAME, GetRankPKResponse.class, null, value);
+    }
+
+    /**
      * Create an instance of {@link JAXBElement }{@code <}{@link Hello }{@code >}}
      * 
      */
@@ -157,6 +484,24 @@ public class ObjectFactory {
     }
 
     /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link IsFBLike }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://service.online.mu/", name = "isFBLike")
+    public JAXBElement<IsFBLike> createIsFBLike(IsFBLike value) {
+        return new JAXBElement<IsFBLike>(_IsFBLike_QNAME, IsFBLike.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link IsFBLikeResponse }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://service.online.mu/", name = "isFBLikeResponse")
+    public JAXBElement<IsFBLikeResponse> createIsFBLikeResponse(IsFBLikeResponse value) {
+        return new JAXBElement<IsFBLikeResponse>(_IsFBLikeResponse_QNAME, IsFBLikeResponse.class, null, value);
+    }
+
+    /**
      * Create an instance of {@link JAXBElement }{@code <}{@link LoginUser }{@code >}}
      * 
      */
@@ -172,6 +517,51 @@ public class ObjectFactory {
     @XmlElementDecl(namespace = "http://service.online.mu/", name = "loginUserResponse")
     public JAXBElement<LoginUserResponse> createLoginUserResponse(LoginUserResponse value) {
         return new JAXBElement<LoginUserResponse>(_LoginUserResponse_QNAME, LoginUserResponse.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link RankGuild }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://service.online.mu/", name = "rankGuild")
+    public JAXBElement<RankGuild> createRankGuild(RankGuild value) {
+        return new JAXBElement<RankGuild>(_RankGuild_QNAME, RankGuild.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link SetFBLike }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://service.online.mu/", name = "setFBLike")
+    public JAXBElement<SetFBLike> createSetFBLike(SetFBLike value) {
+        return new JAXBElement<SetFBLike>(_SetFBLike_QNAME, SetFBLike.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link SetFBLikeResponse }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://service.online.mu/", name = "setFBLikeResponse")
+    public JAXBElement<SetFBLikeResponse> createSetFBLikeResponse(SetFBLikeResponse value) {
+        return new JAXBElement<SetFBLikeResponse>(_SetFBLikeResponse_QNAME, SetFBLikeResponse.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link SetLevelChar }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://service.online.mu/", name = "setLevelChar")
+    public JAXBElement<SetLevelChar> createSetLevelChar(SetLevelChar value) {
+        return new JAXBElement<SetLevelChar>(_SetLevelChar_QNAME, SetLevelChar.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link SetLevelCharResponse }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://service.online.mu/", name = "setLevelCharResponse")
+    public JAXBElement<SetLevelCharResponse> createSetLevelCharResponse(SetLevelCharResponse value) {
+        return new JAXBElement<SetLevelCharResponse>(_SetLevelCharResponse_QNAME, SetLevelCharResponse.class, null, value);
     }
 
 }

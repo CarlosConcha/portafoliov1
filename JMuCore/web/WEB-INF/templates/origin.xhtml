@@ -2,7 +2,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"
       xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
-      xmlns:h="http://xmlns.jcp.org/jsf/html">
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p="http://primefaces.org/ui">
 
     <h:head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -12,8 +13,9 @@
 
     <h:body>
         <h:outputStylesheet library="css" name="mainstyle.css"/>
+        <h:outputScript library="js" name="calendar_es.js" />
         <header>
-            <nav></nav>
+            <nav><h:link value="#{word.login}" outcome="login" /></nav>
         </header>
         <div class="nav-page">
             <ui:insert name="menu"></ui:insert>
@@ -22,8 +24,11 @@
             <ui:insert name="server"></ui:insert>
         </div>
         <section class="content">
-            <ui:insert name="content"></ui:insert>
+            <ui:insert name="content"></ui:insert>  
         </section>
+        <div class="ranking">
+        <ui:insert name="ranking"></ui:insert>
+        </div>
         <footer>
             <ui:insert name="footer"></ui:insert>
         </footer>

@@ -5,27 +5,34 @@
  */
 package com.beans.manager;
 
+import com.builder.FactoryXml;
+import com.consume.Data;
 import com.entity.Estadis;
-import com.util.util;
+import com.entity.ListRankChar;
+import com.entity.ListRankPK;
+import com.entity.News;
+import com.entity.RankG;
+import com.entity.Rank_CS;
 import javax.inject.Named;
-import javax.enterprise.context.SessionScoped;
 import java.io.Serializable;
+import java.net.MalformedURLException;
+import javax.faces.bean.ManagedBean;
+import javax.faces.bean.ViewScoped;
 import javax.xml.bind.JAXBException;
-import javax.xml.ws.WebServiceRef;
 import mu.online.service.Exception_Exception;
-import mu.online.service.ServicioWeb_Service;
 import mu.online.service.Statistics;
+
 
 /**
  *
  * @author carlos
  */
+@ManagedBean
 @Named(value = "mbEstadisticas")
-@SessionScoped
-public class mbEstadisticas implements Serializable {
+@ViewScoped
+public class mbEstadisticas extends Data implements Serializable {
 
-    @WebServiceRef(wsdlLocation = "WEB-INF/wsdl/localhost_8080/ServicioWebV1/servicioWeb.wsdl")
-    private ServicioWeb_Service service;
+    
 
     /**
      * Creates a new instance of mbEstadisticas
@@ -36,14 +43,31 @@ public class mbEstadisticas implements Serializable {
         return estadisticas();
     }
 
-    private Statistics estadisticas() throws Exception_Exception {
-        // Note that the injected javax.xml.ws.Service reference as well as port objects are not thread safe.
-        // If the calling of port operations may lead to race condition some synchronization is required.
-        mu.online.service.ServicioWeb port = service.getServicioWebPort();
-        return port.estadisticas();
+  
+    public Estadis getEstadis() throws JAXBException, MalformedURLException{
+      return (Estadis)FactoryXml.loadXml(new Estadis());
     }
-    public Estadis getEstadis() throws JAXBException{
+    public News getNews() throws JAXBException, MalformedURLException{
+        return (News)FactoryXml.loadXml(new News());
+    }
+
+   
+    public ListRankPK getRank_PK(){
         
-      return util.loadXml();
+         return (ListRankPK)FactoryXml.loadXml(new ListRankPK());
+    }
+
+  
+    public ListRankChar getRankChar(){
+    return (ListRankChar)FactoryXml.loadXml(new ListRankChar());
+    }
+
+   
+    public RankG getRankG(){
+    return (RankG)FactoryXml.loadXml(new RankG());
+    }
+
+    public Rank_CS getRankCastleSieg(){
+        return (Rank_CS)FactoryXml.loadXml(new Rank_CS());
     }
 }

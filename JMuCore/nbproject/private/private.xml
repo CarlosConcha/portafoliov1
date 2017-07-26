@@ -3,10 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/carlos/Documents/NetBeansProjects/JMuCore/web/resources/css/mainstyle.css</file>
-            <file>file:/C:/Users/carlos/Documents/NetBeansProjects/JMuCore/web/WEB-INF/templates/origin.xhtml</file>
-            <file>file:/C:/Users/carlos/Documents/NetBeansProjects/JMuCore/web/WEB-INF/templates/componentes/com_server.xhtml</file>
+            <file>file:/C:/Users/carlos/Documents/NetBeansProjects/JMuCore/web/resources/css/accountStyle.css</file>
             <file>file:/C:/Users/carlos/Documents/NetBeansProjects/JMuCore/src/java/com/bundle/language.properties</file>
+            <file>file:/C:/Users/carlos/Documents/NetBeansProjects/JMuCore/web/WEB-INF/templates/componentes/com_menuAccount.xhtml</file>
+            <file>file:/C:/Users/carlos/Documents/NetBeansProjects/JMuCore/web/WEB-INF/templates/componentes/com_powerlevel.xhtml</file>
         </group>
     </open-files>
 </project-private>
