@@ -14,7 +14,7 @@ public class permiso {
     private final static String portNumber = "1433";
     private final static String databaseName = "MuOnline";
     private final static String userName = "sa";
-    private final static String password = "54287210aa";
+    private final static String password = "123456";
     
     public static String getUrl(){
     return "jdbc:microsoft:sqlserver://"+serverName+":"+portNumber+";DatabaseName="+databaseName+"";

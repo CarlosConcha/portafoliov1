@@ -26,7 +26,7 @@ public class BD {
     
         try{
         Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
-        connect=DriverManager.getConnection("jdbc:sqlserver://142.4.198.109:1433;databaseName=MuOnline","sa","Xfh7Ez04OioJ3vC6Afvw");
+        connect=DriverManager.getConnection("jdbc:sqlserver://localhost:1433;databaseName=MuOnline","sa","123456");
         if(connect != null) {System.out.println("conectado");} 
         }catch(ClassNotFoundException notfound){
             System.err.println("no se encontro el driver"); 
@@ -50,27 +50,27 @@ public class BD {
             //PreparedStatement statement=connect.prepareStatement(sql);
             
             result=sql.executeUpdate();
-            
+            desconectar();
         } catch (SQLException ex) {
             ex.printStackTrace();
         }
         return result;
     
     }
-     public  void desconectar(){
-    
-    if(connect!=null){
+    public void desconectar() {
+
         try {
             connect.close();
-            
+
         } catch (SQLException ex) {
             System.err.println("Error al cerrar la conexion");
         }
+
     }
-    }
-     public static ResultSet query(PreparedStatement stm)throws SQLException{
+     public ResultSet query(PreparedStatement stm)throws SQLException{
          
          ResultSet rs=stm.executeQuery();
+        
          if(!rs.isBeforeFirst()){
          return null;
          }
